@@ -1,0 +1,7 @@
+{%- macro dropdown(name,data) -%}
+<select name="{{name}}" {{extra|safe}} id="">
+    {%- for ind, val in data -%}
+    <option value="{{ind}}">{{val}} </option>
+    {%- endfor -%}
+</select>
+{%- endmacro -%}

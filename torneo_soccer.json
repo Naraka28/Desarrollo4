@@ -1,0 +1,13 @@
+{"Dream Team": {"name": "Dream Team",
+                "sport": {"name": "Soccer", "num_players": 11, "league": "FIFA"},
+                "players": ["Chicharito", "Piojo", "Alexis Vega", "La Tota", "Chuki", "Tecatito", "Cuahutemoc", "Hermoso", "Piqué", "Messi", "Ochoa"]},
+
+"Españolitos": {"name": "Españolitos",
+                    "sport": {"name": "Soccer", "num_players": 11, "league": "FIFA"},
+                    "players": ["Iniesta", "Xavi", "Neymar", "Hulk", "Lewandoski", "Puyol", "Miguel", "Aarón", "Francisco", "Maradona", "Kaká"]},
+"Brasil": {"name": "Brasil",
+                    "sport": {"name": "Soccer", "num_players": 11, "league": "FIFA"},
+                    "players": ["Neymar", "Hulk", "Pele", "Ronaldo", "Rivaldo", "Cafu", "Roberto Carlos", "Lucio", "Thiago Silva", "Alisson", "Taffarel"]},
+"Argentina": {"name": "Argentina",
+                    "sport": {"name": "Soccer", "num_players": 11, "league": "FIFA"},
+                    "players": ["Maradona", "Messi", "Aguero", "Di Maria", "Batistuta", "Zanetti", "Sorin", "Ayala", "Samuel", "Mascherano", "Romero"]}}
